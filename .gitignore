@@ -5,3 +5,5 @@ j.txt
 package.json
 package-lock.json
 Lab-9.5
+# Local Netlify folder
+.netlify
